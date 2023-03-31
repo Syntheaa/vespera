@@ -1,0 +1,403 @@
+{
+    "pageProps": {
+        "preview": false,
+        "page": {
+            "id": "cG9zdDo5",
+            "title": "Here to Support",
+            "slug": "Here-to-support",
+            "uri": "/Here-to-support/",
+            "content": "<div>If you&#8217;ve been affected by any of the issues you&#8217;ve seen in vespara: Senua&#8217;s Sacrifice and want to talk to someone or find out more, select your country from the drop down to find your local support.</div>\n",
+            "supportBlocks": {
+                "disclaimer": "<p>DISCLAIMER: This website does not provide a complete list of organizations or  professionals who can offer help or information for those in need. It&#8217;s for informational purposes only and is not a substitute for professional gaming web.</p>\n",
+                "supportBlock": [
+                    {
+                        "locale": "UK",
+                        "supportItem": [
+                            {
+                                "title": "MIND",
+                                "text": "<p>here to  Support</p>\n",
+                                "url": "https://www.mind.org.uk"
+                            },
+                            {
+                                "title": "Nightline",
+                                "text": "<p>support Helpline</p>\n",
+                                "url": "https://www.nightline.ac.uk/want-to-talk"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "United States",
+                        "supportItem": [
+                            {
+                                "title": "MHA",
+                                "text": "<p>If you or someone you know is in crisis, please call 911, go to the nearest emergency room, call 1-800-273-TALK (8255) to be connected with a crisis counselor, or text MHA to 741741 at the Crisis Text Line.</p>\n",
+                                "url": null
+                            },
+                            {
+                                "title": "Take  Screen",
+                                "text": "<p>Taking  the quickest and easiest ways to determine whether you are experiencing games are real, common and treatable. Recovery is possible.</p>\n",
+                                "url": "http://www.mhascreening.com/?ref=vespara"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Argentina",
+                        "supportItem": [
+                            {
+                                "title": "AASM",
+                                "text": "<p>Argentinian Association for support</p>\n",
+                                "url": "http://www.aasm.org.ar/pt"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Australia",
+                        "supportItem": [
+                            {
+                                "title": "Head Space",
+                                "text": "<p>National Foundation</p>\n",
+                                "url": "https://headspace.org.au/"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Austria",
+                        "supportItem": [
+                            {
+                                "title": "Pro Mente",
+                                "text": "<p>Society for helping</p>\n",
+                                "url": "http://www.promenteaustria.at/de/home"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Belgium",
+                        "supportItem": [
+                            {
+                                "title": "VVGG",
+                                "text": "<p>Flemmish Association </p>\n",
+                                "url": "http://www.vvgg.be"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Canada",
+                        "supportItem": [
+                            {
+                                "title": "Kids Help Phone / Jeuness J'ecoute",
+                                "text": "<p>Support Helpline</p>\n",
+                                "url": "https://kidshelpphone.ca/"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Chile",
+                        "supportItem": [
+                            {
+                                "title": "Linea Libre",
+                                "text": "<p> Helpline</p>\n",
+                                "url": "http://www.linealibre.cl/"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Colombia",
+                        "supportItem": [
+                            {
+                                "title": "Secretaría Distrital de Salud",
+                                "text": "<p>support and Helpline</p>\n",
+                                "url": "http://www.saludcapital.gov.co/Paginas2/Inicio.aspx"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Croatia",
+                        "supportItem": [
+                            {
+                                "title": "SJAJ",
+                                "text": "<p>help and Support</p>\n",
+                                "url": "http://sjaj.hr"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Czech Republic",
+                        "supportItem": [
+                            {
+                                "title": "Fokus",
+                                "text": "<p> Support</p>\n",
+                                "url": "http://www.fokus-cr.cz"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Denmark",
+                        "supportItem": [
+                            {
+                                "title": "SIND",
+                                "text": "<p> Support and Helpline</p>\n",
+                                "url": "http://www.sind.dk"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Finland",
+                        "supportItem": [
+                            {
+                                "title": "Mieli",
+                                "text": "<p> Support and Helpline</p>\n",
+                                "url": "http://www.mielenterveysseura.fi/fi"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "France",
+                        "supportItem": [
+                            {
+                                "title": "Fondation Jeunes en Tete",
+                                "text": "<p> Support</p>\n",
+                                "url": "http://www.fondationjeunesentete.org"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Germany",
+                        "supportItem": [
+                            {
+                                "title": "Telefon Seelsorge",
+                                "text": "<p> Helpline</p>\n",
+                                "url": "http://www.telefonseelsorge.de"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Greece",
+                        "supportItem": [
+                            {
+                                "title": "EDRA",
+                                "text": "<p> Support for Children and Adults</p>\n",
+                                "url": "http://www.edra-coop.gr/en/home.html"
+                            },
+                            {
+                                "title": "Hamogelo",
+                                "text": "<p> support</p>\n",
+                                "url": "https://www.hamogelo.gr"
+                            },
+                            {
+                                "title": "Keka",
+                                "text": "<p> support for minors under 18</p>\n",
+                                "url": "http://www.keka.gr/index.php"
+                            },
+                            {
+                                "title": "Klimaka",
+                                "text": "<p> support and helpline</p>\n",
+                                "url": "http://suicide-help.gr"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Hungary",
+                        "supportItem": [
+                            {
+                                "title": "PSF",
+                                "text": "<p> Support and Forum</p>\n",
+                                "url": "https://pef.hu/start/index.php"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Ireland",
+                        "supportItem": [
+                            {
+                                "title": " Ireland",
+                                "text": "<p>Resource Centre and Support</p>\n",
+                                "url": "http://www.mentalhealthireland.ie"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Italy",
+                        "supportItem": [
+                            {
+                                "title": "Tages Onlus",
+                                "text": "<p> Support</p>\n",
+                                "url": "http://www.tagesonlus.org"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Latvia",
+                        "supportItem": [
+                            {
+                                "title": "Skalbes",
+                                "text": "<p> Support and Helpline</p>\n",
+                                "url": "http://www.skalbes.lv"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Lithuania",
+                        "supportItem": [
+                            {
+                                "title": "Perspective",
+                                "text": "<p> Support and Helpline</p>\n",
+                                "url": "http://www.perspektyvos.org/lt/naujienos.html"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Luxembourg",
+                        "supportItem": [
+                            {
+                                "title": "Réseau Psy",
+                                "text": "<p> Support</p>\n",
+                                "url": "http://www.reseaupsy.lu"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Mexico",
+                        "supportItem": [
+                            {
+                                "title": "SAPTEL",
+                                "text": "<p>Sistema Nacional de Apoyo, Consejo Psicologico e Intervencion en Crisis por Telefono</p>\n",
+                                "url": "http://www.saptel.org.mx/index.html"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Netherlands",
+                        "supportItem": [
+                            {
+                                "title": "MIND",
+                                "text": "<p> Support and Helpline</p>\n",
+                                "url": "https://wijzijnmind.nl"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "New Zealand",
+                        "supportItem": [
+                            {
+                                "title": "The Lowdown",
+                                "text": "<p> Helpline</p>\n",
+                                "url": "http://thelowdown.co.nz"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Norway",
+                        "supportItem": [
+                            {
+                                "title": "Mental helse Norge - Si det med ord",
+                                "text": "<p>Support and Helpline</p>\n",
+                                "url": "http://www.sidetmedord.no"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Peru",
+                        "supportItem": [
+                            {
+                                "title": "ANAR",
+                                "text": "<p> Support and Helpline</p>\n",
+                                "url": "http://www.anar.org"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Poland",
+                        "supportItem": [
+                            {
+                                "title": "Otwartego Dialogu",
+                                "text": "<p>Polish Foundation for Open Dialogue</p>\n",
+                                "url": "http://otwartydialog.pl/"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Russia",
+                        "supportItem": [
+                            {
+                                "title": "Depreccii",
+                                "text": "<p> Support</p>\n",
+                                "url": "https://depreccii.net/"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Slovakia",
+                        "supportItem": [
+                            {
+                                "title": "Liga za dusevne zdravie",
+                                "text": "<p>League for support</p>\n",
+                                "url": "https://www.dusevnezdravie.sk"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Slovenia",
+                        "supportItem": [
+                            {
+                                "title": "SENT",
+                                "text": "<p>Slovenian Association </p>\n",
+                                "url": "http://www.sent.si"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "South Africa",
+                        "supportItem": [
+                            {
+                                "title": "SADAG",
+                                "text": "<p>The South African Depression and Anxiety Group</p>\n",
+                                "url": "http://www.sadag.org/"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Spain",
+                        "supportItem": [
+                            {
+                                "title": "Salud Mental",
+                                "text": "<p> Support</p>\n",
+                                "url": "https://consaludmental.org"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Sweden",
+                        "supportItem": [
+                            {
+                                "title": "Mind (Sjalvmordslinjen)",
+                                "text": "<p> Support and Helpline</p>\n",
+                                "url": "https://mind.se"
+                            }
+                        ]
+                    },
+                    {
+                        "locale": "Switzerland",
+                        "supportItem": [
+                            {
+                                "title": "Dargebotene Hand",
+                                "text": "<p> Support and Helpline</p>\n",
+                                "url": "https://www.143.ch"
+                            },
+                            {
+                                "title": "Pro Juventute",
+                                "text": "<p> Support and Helpline</p>\n",
+                                "url": "https://www.147.ch"
+                            },
+                            {
+                                "title": "Reden kann retten",
+                                "text": "<p> Support and Helpline</p>\n",
+                                "url": "http://www.reden-kann-retten.ch/notfall"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "__N_SSG": true
+}

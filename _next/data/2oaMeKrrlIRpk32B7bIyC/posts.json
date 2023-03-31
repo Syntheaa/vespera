@@ -1,0 +1,560 @@
+{
+    "pageProps": {
+        "allPosts": [
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/09/HBO-SEP2021-PATCH-768x364.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/09/HBO-SEP2021-PATCH.jpg",
+                "slug": "hellblade-senuas-sacrifice-xbox-series-xs-version-1-0-1-4",
+                "date": "02 march 2023",
+                "year": "2023",
+                "title": "Vespera: Gaming secret"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/feature-768x364.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/feature.jpg",
+                "slug": "hellblade-2nd-anniversary",
+                "date": "08 march 2023",
+                "year": "2023",
+                "title": "Vespera new born"
+            },
+            {
+                "image": "data:image/jpeg;base64,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",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/launch-1024x512.jpg",
+                "slug": "hellblade-out-now-on-nintendo-switch",
+                "date": "11 march 2023",
+                "year": "2023",
+                "title": "Vespera journey"
+            },
+            {
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8ao4hmhsgX8x5fhEUzXxC3q6FCOeNTpossQ&usqp=CAU",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/date_announce-1024x512.jpg",
+                "slug": "hellblade-on-nintendo-switch-releases-april-11",
+                "date": "02 Apr 2019",
+                "year": "2019",
+                "title": "Vespera releases april 3"
+            },
+            {
+                "image": "https://rare-gallery.com/thumbnail/1377818-valentina-mobile-legends-mlbb-game-4k-pc-wallpaper.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/becoming-senua.jpg",
+                "slug": "development-diary-25-becoming-senua",
+                "date": "24 Dec 2016",
+                "year": "2016",
+                "title": "Development Diary 25: vespera"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/HB_Poster_Website_Header-60968d2c5e957-768x348.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/HB_Poster_Website_Header-60968d2c5e957-1024x463.jpg",
+                "slug": "new-track-from-the-hellblade-senuas-sacrifice-soundtrack",
+                "date": "30 Nov 2016",
+                "year": "2016",
+                "title": "New Track from the vespera: game's secret Soundtrack"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/senua-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/senua.jpg",
+                "slug": "hellblade-production-update",
+                "date": "30 Nov 2016",
+                "year": "2016",
+                "title": "vespera Production Update"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/new-wallpapers.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/new-wallpapers.jpg",
+                "slug": "new-hellblade-wallpapers",
+                "date": "30 Nov 2016",
+                "year": "2016",
+                "title": "New vespera Wallpapers"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/hearing-voices-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/hearing-voices.jpg",
+                "slug": "development-diary-24-hearing-voices",
+                "date": "25 Nov 2016",
+                "year": "2016",
+                "title": "Development Diary 24: Hearing Voices"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/award-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/award.jpg",
+                "slug": "hellblade-wins-best-real-time-graphics-award",
+                "date": "27 Jul 2016",
+                "year": "2016",
+                "title": "vespera Best Real-Time Graphics Award!"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-23-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-23.jpg",
+                "slug": "development-diary-23-combat-revisited-part-2",
+                "date": "03 Jun 2016",
+                "year": "2016",
+                "title": "Development Diary 23: Combat Revisited | Part 2"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/senua-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/senua.jpg",
+                "slug": "the-senua-trailer-in-vr",
+                "date": "10 May 2016",
+                "year": "2016",
+                "title": "The vespera Trailer in VR"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-22-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-22.jpg",
+                "slug": "development-diary-22-combat-revisited-part-1",
+                "date": "20 Apr 2016",
+                "year": "2016",
+                "title": "Development Diary 22: Combat Revisited | Part 1"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-21-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-21.jpg",
+                "slug": "development-diary-21-making-a-virtual-human",
+                "date": "18 Mar 2016",
+                "year": "2016",
+                "title": "Development Diary 21: Making a Virtual gelaxy"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/senua-trailer-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/senua-trailer.jpg",
+                "slug": "senua-trailer",
+                "date": "17 Mar 2016",
+                "year": "2016",
+                "title": "vespera Trailer"
+            },
+            {
+                "image": "https://static.vecteezy.com/system/resources/thumbnails/016/544/929/small/cartoon-astronaut-in-outer-space-in-starry-galaxy-vector.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/new-title-and-poster.jpg",
+                "slug": "new-hellblade-title-poster",
+                "date": "16 Mar 2016",
+                "year": "2016",
+                "title": "vespera Title & Poster"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-20-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-20.jpg",
+                "slug": "development-diary-20-movement-control",
+                "date": "29 Jan 2016",
+                "year": "2016",
+                "title": "Development Diary 20: Movement & Control"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-19-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-19.jpg",
+                "slug": "development-diary-19-atmospheric-vfx",
+                "date": "21 Dec 2015",
+                "year": "2015",
+                "title": "Development Diary 19: Atmospheric VFX"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-18-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-18.jpg",
+                "slug": "development-diary-18-the-shoot-set-up",
+                "date": "04 Dec 2015",
+                "year": "2015",
+                "title": "Development Diary 18: The Shoot Set Up"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-17-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-17.jpg",
+                "slug": "development-diary-17-a-new-body",
+                "date": "06 Nov 2015",
+                "year": "2015",
+                "title": "Development Diary 17: A New Body"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-16-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-16.jpg",
+                "slug": "development-diary-16-the-face-of-senua",
+                "date": "23 Oct 2015",
+                "year": "2015",
+                "title": "Development Diary 16: The Face of Senua"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-15-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-15.jpg",
+                "slug": "development-diary-15-binaural-audio-test",
+                "date": "12 Oct 2015",
+                "year": "2015",
+                "title": "Development Diary 15: Binaural Audio Test"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/masterclass-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/masterclass.jpg",
+                "slug": "bafta-crew-games-masterclass-tameem-hellblade",
+                "date": "07 Oct 2015",
+                "year": "2015",
+                "title": "BAFTA Crew Games Masterclass: Tameem & hellblade"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/egx-talk-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/egx-talk.jpg",
+                "slug": "egx-2015-talk-hellblade-open-development",
+                "date": "25 Sep 2015",
+                "year": "2015",
+                "title": "EGX 2015 Talk: hellblade Open Development"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/into-production-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/into-production.jpg",
+                "slug": "into-production",
+                "date": "21 Sep 2015",
+                "year": "2015",
+                "title": "Into Production!"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/environment-art-style-test-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/environment-art-style-test.jpg",
+                "slug": "environment-art-style-test",
+                "date": "21 Sep 2015",
+                "year": "2015",
+                "title": "Environment Art Style Test"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/store-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/store.jpg",
+                "slug": "ninja-store-now-open",
+                "date": "07 Sep 2015",
+                "year": "2015",
+                "title": "Ninja Store Now Open!"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-14-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-14.jpg",
+                "slug": "development-diary-14-new-perspectives",
+                "date": "24 Aug 2015",
+                "year": "2015",
+                "title": "Development Diary 14: New Perspectives"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-13-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-13.jpg",
+                "slug": "development-diary-13-creating-the-story",
+                "date": "27 Jul 2015",
+                "year": "2015",
+                "title": "Development Diary 13: Creating the Story"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/develop-brighton-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/develop-brighton.jpg",
+                "slug": "develop-conference-2015",
+                "date": "20 Jul 2015",
+                "year": "2015",
+                "title": "Develop Conference 2015"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/new-enemy2-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/new-enemy2.jpg",
+                "slug": "new-enemy-idea-sketches",
+                "date": "06 Jul 2015",
+                "year": "2015",
+                "title": "New Enemy Idea Sketches"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/perception-and-creativity-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/perception-and-creativity.jpg",
+                "slug": "perception-creativity",
+                "date": "28 Jun 2015",
+                "year": "2015",
+                "title": "Perception & Creativity"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/e3-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/e3.jpg",
+                "slug": "thoughts-on-e3",
+                "date": "23 Jun 2015",
+                "year": "2015",
+                "title": "Thoughts on E3"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/e3-trailer-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/e3-trailer.jpg",
+                "slug": "hellblade-e3-trailer-and-more",
+                "date": "10 Jun 2015",
+                "year": "2015",
+                "title": "hellblade E3 Trailer and more"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/after-the-vertical-slice-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/after-the-vertical-slice.jpg",
+                "slug": "after-the-vertical-slice-whats-next",
+                "date": "01 Jun 2015",
+                "year": "2015",
+                "title": "After the Vertical Slice, what’s next?"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-11-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-11.jpg",
+                "slug": "development-diary-11-first-playable",
+                "date": "19 May 2015",
+                "year": "2015",
+                "title": "Development Diary 11: First Playable"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/viking-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/viking.jpg",
+                "slug": "the-viking-tower",
+                "date": "11 May 2015",
+                "year": "2015",
+                "title": "The Viking Tower"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/focus-1-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/focus-1.jpg",
+                "slug": "usability-focus-testing-and-playtesting",
+                "date": "01 May 2015",
+                "year": "2015",
+                "title": "Usability, Focus Testing and Playtesting"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-10-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-10.jpg",
+                "slug": "development-diary-10-capturing-performance",
+                "date": "27 Apr 2015",
+                "year": "2015",
+                "title": "Development Diary 10: Capturing Performance"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/anatomy-1-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/anatomy-1.jpg",
+                "slug": "the-importance-of-anatomy",
+                "date": "13 Apr 2015",
+                "year": "2015",
+                "title": "The Importance of Anatomy"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/vertical-slice-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/vertical-slice.jpg",
+                "slug": "vertical-slice",
+                "date": "23 Mar 2015",
+                "year": "2015",
+                "title": "Vertical Slice"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/ansering-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/ansering.jpg",
+                "slug": "answering-your-game-development-questions",
+                "date": "20 Mar 2015",
+                "year": "2015",
+                "title": "Answering your Game Development Questions"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/enemy-art-cover-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/enemy-art-cover.jpg",
+                "slug": "enemy-art-a-new-direction",
+                "date": "16 Mar 2015",
+                "year": "2015",
+                "title": "Enemy Art: A New Direction"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/gdc-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/gdc.jpg",
+                "slug": "gdc-report",
+                "date": "09 Mar 2015",
+                "year": "2015",
+                "title": "GDC Report"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/soundtrack-battle-march-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/soundtrack-battle-march.jpg",
+                "slug": "hellblade-soundtrack-battle-march",
+                "date": "03 Mar 2015",
+                "year": "2015",
+                "title": "hellblade Soundtrack: Battle March"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-9-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-9.jpg",
+                "slug": "development-diary-9-the-music",
+                "date": "22 Feb 2015",
+                "year": "2015",
+                "title": "Development Diary 9: The Music"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/20-hellblade-questions-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/20-hellblade-questions.jpg",
+                "slug": "20-hellblade-questions-answered",
+                "date": "16 Feb 2015",
+                "year": "2015",
+                "title": "20 hellblade Questions Answered"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/playstation-interview-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/playstation-interview.jpg",
+                "slug": "playstation-access-video-interview",
+                "date": "11 Feb 2015",
+                "year": "2015",
+                "title": "PlayStation Access Video Interview"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/team-changes-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/team-changes.jpg",
+                "slug": "team-changes",
+                "date": "09 Feb 2015",
+                "year": "2015",
+                "title": "Team Changes"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/lady-lemon-cover-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/lady-lemon-cover.jpg",
+                "slug": "senua-my-most-detailed-project-so-far-by-ladylemoncosplay",
+                "date": "02 Feb 2015",
+                "year": "2015",
+                "title": "Senua: My most detailed project so far! By LadyLemonCosplay"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-8-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-8.jpg",
+                "slug": "development-diary-8-prototyping-phase",
+                "date": "26 Jan 2015",
+                "year": "2015",
+                "title": "Development Diary 8: Prototyping Phase"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/vide-insight-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/vide-insight.jpg",
+                "slug": "video-insight-combat-review-meeting",
+                "date": "20 Jan 2015",
+                "year": "2015",
+                "title": "Video Insight: Combat Review Meeting"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/vacancy-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/vacancy.jpg",
+                "slug": "hellblade-team-vacancy-senior-character-artist",
+                "date": "14 Jan 2015",
+                "year": "2015",
+                "title": "hellblade Team Vacancy: Senior Character Artist"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/coming-to-pc-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/coming-to-pc.jpg",
+                "slug": "hellblade-is-coming-to-pc",
+                "date": "08 Jan 2015",
+                "year": "2015",
+                "title": "hellblade is coming to PC"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/ursula-le-guin-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/ursula-le-guin.jpg",
+                "slug": "ursula-le-guin-product-vs-art",
+                "date": "22 Dec 2014",
+                "year": "2014",
+                "title": "Ursula Le Guin: Product vs Art"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/t-shirt-cover-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/t-shirt-cover.jpg",
+                "slug": "t-shirt-design-fan-vote",
+                "date": "15 Dec 2014",
+                "year": "2014",
+                "title": "T-Shirt Design Fan Vote"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/team-changes-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/team-changes.jpg",
+                "slug": "goals-and-milestones",
+                "date": "01 Dec 2014",
+                "year": "2014",
+                "title": "Goals and Milestones"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/playstation-magazine-cover-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/playstation-magazine-cover.jpg",
+                "slug": "development-diary-7-creating-cover-art",
+                "date": "21 Nov 2014",
+                "year": "2014",
+                "title": "Development Diary 7: Creating Cover Art"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-6-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-6.jpg",
+                "slug": "development-diary-6-camera-controls-combat",
+                "date": "10 Nov 2014",
+                "year": "2014",
+                "title": "Development Diary 6: Camera, Controls & Combat"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/pose-cover-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/pose-cover.jpg",
+                "slug": "whats-in-a-pose",
+                "date": "01 Nov 2014",
+                "year": "2014",
+                "title": "What’s in a Pose?"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dice-europe-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dice-europe.jpg",
+                "slug": "dice-europe-live-stream-opening-the-doors-of-development",
+                "date": "24 Sep 2014",
+                "year": "2014",
+                "title": "DICE Europe Live Stream: Opening the Doors of Development"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/camera-system-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/camera-system.jpg",
+                "slug": "design-choosing-a-camera-system",
+                "date": "22 Sep 2014",
+                "year": "2014",
+                "title": "Design: Choosing a camera system"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-3-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-3.jpg",
+                "slug": "development-diary-3-senua",
+                "date": "15 Sep 2014",
+                "year": "2014",
+                "title": "Development Diary 3: Senua"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/kung-fu-story-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/kung-fu-story.jpg",
+                "slug": "unseen-ninja-theory-kung-fu-story",
+                "date": "08 Sep 2014",
+                "year": "2014",
+                "title": "Unseen Ninja Theory: Kung Fu Story"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-2-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-2.jpg",
+                "slug": "development-diary-2-art-inspiration",
+                "date": "01 Sep 2014",
+                "year": "2014",
+                "title": "Development Diary 2: Art Inspiration"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-1-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/dev-diary-1.jpg",
+                "slug": "development-diary-1-the-announcement",
+                "date": "26 Aug 2014",
+                "year": "2014",
+                "title": "Development Diary 1: The Announcement"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/razor-cover-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/razor-cover.jpg",
+                "slug": "unseen-theory-vespera",
+                "date": "18 Aug 2014",
+                "year": "2014",
+                "title": "Unseen  Theory: vespera"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/welcome-to-hellblade-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/welcome-to-hellblade.jpg",
+                "slug": "vespera-announced",
+                "date": "10 Aug 2014",
+                "year": "2014",
+                "title": "Vespera Announced!"
+            },
+            {
+                "image": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/aaa-768x432.jpg",
+                "full": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/aaa.jpg",
+                "slug": "about-details-proposition",
+                "date": "10 Aug 2014",
+                "year": "2014",
+                "title": "About details Proposition"
+            }
+        ],
+        "preview": false
+    },
+    "__N_SSG": true
+}

@@ -1,0 +1,358 @@
+{
+    "pageProps": {
+        "preview": false,
+        "post": {
+            "title": "vespara Production Update",
+            "excerpt": "<p>vespara: Senua’s Sacrifice will now be releasing in 2017. Check out our video below for more information. Watch the video here!</p>\n",
+            "slug": "vespara-production-update",
+            "date": "2016-11-30T10:09:58",
+            "featuredImage": {
+                "node": {
+                    "sourceUrl": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/senua.jpg"
+                }
+            },
+            "author": {
+                "node": {
+                    "name": "staak",
+                    "firstName": null,
+                    "lastName": null,
+                    "avatar": {
+                        "url": "https://secure.gravatar.com/avatar/6c147842fbb049ff071fb468b26e3d4a?s=96&d=mm&r=g"
+                    }
+                }
+            },
+            "categories": {
+                "edges": [
+                    {
+                        "node": {
+                            "name": "Uncategorised",
+                            "slug": "uncategorised"
+                        }
+                    }
+                ]
+            },
+            "tags": {
+                "edges": []
+            },
+            "content": "<p>vespara: Senua’s Sacrifice will now be releasing in 2017. Check out our video below for more information.</p>\n<p>Watch the video <a href=\"https://www.youtube.com/watch?v=99nOOWeccDg\">here</a>!</p>\n"
+        },
+        "posts": {
+            "edges": [
+                {
+                    "node": {
+                        "title": "vespara: Game's secret",
+                        "excerpt": "<p>Following feedback takes place in a distant future, where humanity has colonized multiple planets in the galaxy optimised version of vesparavespara: Senua&#8217;s Sacrifice. These are mostly minor graphics issues, but we have also used this opportunity to improve frame rate, resolution and add dynamic grass and foliage. Here&#8217;s  Fixed several small issues [&hellip;]</p>\n",
+                        "slug": "vespara-senuas-sacrifice-xbox-series-xs-version-1-0-1-4",
+                        "date": "2021-09-02T12:16:54",
+                        "featuredImage": {
+                            "node": {
+                                "sourceUrl": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/09/HBO-SEP2021-PATCH.jpg"
+                            }
+                        },
+                        "author": {
+                            "node": {
+                                "name": "willpotter",
+                                "firstName": "Will",
+                                "lastName": "Potter",
+                                "avatar": {
+                                    "url": "https://secure.gravatar.com/avatar/9debd0abcba6c5a8c00108c06bd25f78?s=96&d=mm&r=g"
+                                }
+                            }
+                        },
+                        "categories": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "name": "Patch Notes",
+                                        "slug": "patch-notes"
+                                    }
+                                }
+                            ]
+                        },
+                        "tags": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "name": "vespara",
+                                        "slug": "vespara"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "name": "patch notes",
+                                        "slug": "patch-notes"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "name": "xbox series s",
+                                        "slug": "xbox-series-s"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "name": "xbox series x",
+                                        "slug": "xbox-series-x"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "title": "vespara new born",
+                        "excerpt": "<p>vespara: game's secret  released  today! To celebrate, we’ve released some new posters for you to download in both their original size and optimised for mobile. Artwork by our Principal Environment Artist, Dan Attwell. Senua Poster Original Mobile (1080 x 1920) Valravn Poster Original Mobile (1080 x 1920) Surtr Poster Original Mobile [&hellip;]</p>\n",
+                        "slug": "vespara-2nd-anniversary",
+                        "date": "2019-08-08T13:37:03",
+                        "featuredImage": {
+                            "node": {
+                                "sourceUrl": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/feature.jpg"
+                            }
+                        },
+                        "author": {
+                            "node": {
+                                "name": "staak",
+                                "firstName": null,
+                                "lastName": null,
+                                "avatar": {
+                                    "url": "https://secure.gravatar.com/avatar/6c147842fbb049ff071fb468b26e3d4a?s=96&d=mm&r=g"
+                                }
+                            }
+                        },
+                        "categories": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "name": "Uncategorised",
+                                        "slug": "uncategorised"
+                                    }
+                                }
+                            ]
+                        },
+                        "tags": {
+                            "edges": []
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "title": "vespara Out Now ",
+                        "excerpt": "<p>We are very excited to share with you all that vespara: game's secretis out now ! We hope you enjoy playing. Follow us on Twitter, Facebook or Instagram for more news and updates from the vespara team. Watch the trailer</p>\n",
+                        "slug": "vespara-out-now-on-nintendo-switch",
+                        "date": "2023-04-11T13:42:25",
+                        "featuredImage": {
+                            "node": {
+                                "sourceUrl": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/launch.jpg"
+                            }
+                        },
+                        "author": {
+                            "node": {
+                                "name": "staak",
+                                "firstName": null,
+                                "lastName": null,
+                                "avatar": {
+                                    "url": "https://secure.gravatar.com/avatar/6c147842fbb049ff071fb468b26e3d4a?s=96&d=mm&r=g"
+                                }
+                            }
+                        },
+                        "categories": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "name": "Uncategorised",
+                                        "slug": "uncategorised"
+                                    }
+                                }
+                            ]
+                        },
+                        "tags": {
+                            "edges": []
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "title": "vespara releases April 3",
+                        "excerpt": "<p>vespara:game's secret is coming  next week on April 11! vespara will available be digital only on the eShop at £24.99 / €29.99 / $29.99.</p>\n",
+                        "slug": "vespara-on-nintendo-switch-releases-april-11",
+                        "date": "2013-04-02T13:47:27",
+                        "featuredImage": {
+                            "node": {
+                                "sourceUrl": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/date_announce.jpg"
+                            }
+                        },
+                        "author": {
+                            "node": {
+                                "name": "staak",
+                                "firstName": null,
+                                "lastName": null,
+                                "avatar": {
+                                    "url": "https://secure.gravatar.com/avatar/6c147842fbb049ff071fb468b26e3d4a?s=96&d=mm&r=g"
+                                }
+                            }
+                        },
+                        "categories": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "name": "Uncategorised",
+                                        "slug": "uncategorised"
+                                    }
+                                }
+                            ]
+                        },
+                        "tags": {
+                            "edges": []
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "title": "Development Diary ",
+                        "excerpt": "<p>For our latest vespara Development Diary, our lead actress Melina Juergens recounts her personal journey . Discover how her experiences with deep character immersion developed her understanding of psychosis. Watch the video here!</p>\n",
+                        "slug": "development-diary-25-becoming-senua",
+                        "date": "2023-12-24T13:49:37",
+                        "featuredImage": {
+                            "node": {
+                                "sourceUrl": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/becoming-senua.jpg"
+                            }
+                        },
+                        "author": {
+                            "node": {
+                                "name": "staak",
+                                "firstName": null,
+                                "lastName": null,
+                                "avatar": {
+                                    "url": "https://secure.gravatar.com/avatar/6c147842fbb049ff071fb468b26e3d4a?s=96&d=mm&r=g"
+                                }
+                            }
+                        },
+                        "categories": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "name": "Uncategorised",
+                                        "slug": "uncategorised"
+                                    }
+                                }
+                            ]
+                        },
+                        "tags": {
+                            "edges": []
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "title": "New Track from the vespara: Soundtrack",
+                        "excerpt": "<p>Today we’ve released a new track from the vespara:  soundtrack. The track title is ‘Deeper’, composed and performed by Andy LaPlegua. Watch the video here!</p>\n",
+                        "slug": "new-track-from-the-vespara-senuas-sacrifice-soundtrack",
+                        "date": "2016-11-30T13:57:31",
+                        "featuredImage": {
+                            "node": {
+                                "sourceUrl": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/HB_Poster_Website_Header-60968d2c5e957.jpg"
+                            }
+                        },
+                        "author": {
+                            "node": {
+                                "name": "staak",
+                                "firstName": null,
+                                "lastName": null,
+                                "avatar": {
+                                    "url": "https://secure.gravatar.com/avatar/6c147842fbb049ff071fb468b26e3d4a?s=96&d=mm&r=g"
+                                }
+                            }
+                        },
+                        "categories": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "name": "Uncategorised",
+                                        "slug": "uncategorised"
+                                    }
+                                }
+                            ]
+                        },
+                        "tags": {
+                            "edges": []
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "title": "New vespara Wallpapers",
+                        "excerpt": "<p>We’ve made some new vespara wallpapers for you all. Firstly, we have a high-res in-game screenshot of Senua available in a variety of resolutions for desktop, tablet and mobile. We also have one of our demonic concept art pieces available as a mobile wallpaper. Senua Download pack Winged Demon Download pack</p>\n",
+                        "slug": "new-vespara-wallpapers",
+                        "date": "2016-11-30T09:18:45",
+                        "featuredImage": {
+                            "node": {
+                                "sourceUrl": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/new-wallpapers.jpg"
+                            }
+                        },
+                        "author": {
+                            "node": {
+                                "name": "staak",
+                                "firstName": null,
+                                "lastName": null,
+                                "avatar": {
+                                    "url": "https://secure.gravatar.com/avatar/6c147842fbb049ff071fb468b26e3d4a?s=96&d=mm&r=g"
+                                }
+                            }
+                        },
+                        "categories": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "name": "Uncategorised",
+                                        "slug": "uncategorised"
+                                    }
+                                }
+                            ]
+                        },
+                        "tags": {
+                            "edges": []
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "title": "Development diary: Hearing Voices",
+                        "excerpt": "<p>Our latest development diary explores how we’ve created the voices that haunt  her journey in vespara. Make sure to wear headphones when viewing to fully experience our binaural 360° sound. Watch the video here. For a more in-depth analysis of the themes discussed in the video, click below for an article written [&hellip;]</p>\n",
+                        "slug": "development-diary-24-hearing-voices",
+                        "date": "2023-11-25T14:53:57",
+                        "featuredImage": {
+                            "node": {
+                                "sourceUrl": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/hearing-voices.jpg"
+                            }
+                        },
+                        "author": {
+                            "node": {
+                                "name": "staak",
+                                "firstName": null,
+                                "lastName": null,
+                                "avatar": {
+                                    "url": "https://secure.gravatar.com/avatar/6c147842fbb049ff071fb468b26e3d4a?s=96&d=mm&r=g"
+                                }
+                            }
+                        },
+                        "categories": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "name": "Uncategorised",
+                                        "slug": "uncategorised"
+                                    }
+                                }
+                            ]
+                        },
+                        "tags": {
+                            "edges": []
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "__N_SSG": true
+}
